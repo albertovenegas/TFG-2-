@@ -11,3 +11,5 @@ Ayuda para la generación de informes: La herramienta te brindará la posibilida
 Requisitos del sistema
 Java 8 o superior instalado en tu sistema.
 Un servidor de base de datos MySQL accesible para almacenar tus anotaciones.
+
+Autor: Alberto Venegas Martínez
